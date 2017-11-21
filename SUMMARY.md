@@ -4,8 +4,10 @@
 
 * [Flows](README.md)
 
-## Methods
+## Core Elements
 
 * [Inputs](methods.md)
 * [Fields](fields.md)
+
+## Modules
 
