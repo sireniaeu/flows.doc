@@ -2,8 +2,9 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [Flows](README.md)
 
 ## Methods
 
 * [Defining Methods](methods.md)
+
