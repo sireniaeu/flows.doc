@@ -18,6 +18,7 @@ Will click on the given field.
   - NativeDriver
 
 {% sample lang="js" %}
+#### Example
 Clicking on a button.
 ```javascript
 Fields["mybutton"].click();
