@@ -7,4 +7,5 @@
 ## Methods
 
 * [Inputs](methods.md)
+* [Fields](fields.md)
 
